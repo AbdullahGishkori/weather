@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(12, 162, 107);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.weatherapp{
+    background-color: rgb(168, 20, 45);
+    padding: 65px;
+    width: 520px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 15px 30px rgb(165, 41, 41);
+}
+h2{
+margin-bottom: 20px;
+font-size: 22px;
+
+}
+input
+{
+    width: 200px;
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    margin-bottom: 15px;
+
+}
+button{
+    width: 100px;
+    padding: 10px;
+border: none;
+background-color: rgb(225, 225, 46);
+border-radius: 10px;
+}
+.result{
+
+}
+h3{
+    font-size: 1px;
+    margin: 2px;
+}
